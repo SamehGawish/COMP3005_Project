@@ -1,14 +1,11 @@
 # COMP3005_Project
 
-Student: SAMEH GAWISH
-Student NO.: 101096103
-NO. of students in the project: 1
+**Student**: SAMEH GAWISH  
+**Student NO.**: 101096103  
+**NO. of students in the project**: 1
 
-this is the end project for the course
+This is the end project for the course.
 
-this README file has a link to a YouTube video explaining the project and you will find in this repository the pdf and the files required.
+This README file includes a link to a YouTube video explaining the project. In this repository, you will find the PDF and the required files for the project.
 
-The YouTube link:
-https://youtu.be/CNrC6RY9wR4
-
-
+**YouTube Link**: [Project Explanation Video](https://youtu.be/CNrC6RY9wR4)
